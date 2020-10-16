@@ -4,7 +4,7 @@ This is a simple game created using Python
 <br>
 Here, the code :
 <br>
-handles keyboard and mouse events with PyGame
+1)handles keyboard and mouse events with PyGame
 <br>
-loads, transform and display images with PyGame
+2)loads, transform and display images with PyGame
 
